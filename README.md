@@ -9,16 +9,20 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Java+Backend+Developer;Spring+Boot+Developer;Full+Stack+Developer;Aspiring+Software+Engineer" alt="Typing SVG" />
 </p>
 
-I am a Computer Science student passionate about building scalable backend applications and solving real-world problems through code.
+## 👨‍💻 About Me
 
-- 🔭 Currently working on Java Backend Development and Full Stack Projects
-- 🌱 Learning Spring Boot, SQL, Data Structures & Algorithms
-- 💻 Interested in Backend Engineering, System Design and Cloud Technologies
-- 🤝 Open to collaborating on interesting software projects
-- 📫 Reach me at: er.faisalkhandev@gmail.com
+Hi, I'm **Md Faisal Khan**, a Computer Science Engineering student at **Teerthanker Mahaveer University (TMU)**, passionate about software development and problem-solving.
 
----
+- 🎓 Pursuing B.Tech in Computer Science & Engineering (2028)
+- ☕ Focused on Java Backend Development and Spring Boot
+- ⚛️ Exploring Full Stack Development with React
+- 🗄️ Working with SQL, MySQL and REST APIs
+- 🧠 Practicing Data Structures & Algorithms
+- 🐳 Exploring Docker, Kubernetes and DevOps
+- 🚀 Building projects and participating in hackathons
+- 🤝 Open to collaboration, learning and new opportunities
 
+My goal is to become a skilled Software Engineer by building practical applications and continuously improving my problem-solving skills.
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
