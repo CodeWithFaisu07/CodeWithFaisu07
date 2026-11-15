@@ -23,6 +23,14 @@ Hi, I'm **Md Faisal Khan**, a Computer Science Engineering student at **Teerthan
 - 🤝 Open to collaboration, learning and new opportunities
 
 My goal is to become a skilled Software Engineer by building practical applications and continuously improving my problem-solving skills.
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeWithFaisu07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithFaisu07&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
+</p>
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
