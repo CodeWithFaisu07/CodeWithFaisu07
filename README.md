@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./profile-banner.png" width="100%" alt="Md Faisal Khan - Java Backend Developer | Full Stack Developer" />
+</p>
+
+
 # Hi 👋, I'm Md Faisal Khan
 
 <p align="center">
