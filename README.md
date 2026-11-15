@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.png" width="100%" alt="Md Faisal Khan - Java Backend Developer | Full Stack Developer" />
+  <img src="./profile-banner.png.png" width="100%" alt="Md Faisal Khan - Java Backend Developer | Full Stack Developer" />
 </p>
 
 
