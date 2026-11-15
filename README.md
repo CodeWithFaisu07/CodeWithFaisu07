@@ -14,19 +14,27 @@ I am a Computer Science student passionate about building scalable backend appli
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:** Java, Python, JavaScript, SQL
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,mysql" />
+</p>
 
-**Backend:** Spring Boot, Spring MVC, REST APIs, Hibernate
+### ⚙️ Backend & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,react,html,css" />
+</p>
 
-**Frontend:** HTML, CSS, JavaScript, React
+### 🗄️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,linux" />
+</p>
 
-**Database:** MySQL
-
-**Tools:** Git, GitHub, IntelliJ IDEA, VS Code
-
----
+### 🚀 Currently Exploring
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</p>
 
 ### 🌐 Connect With Me
 
